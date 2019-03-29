@@ -16,5 +16,4 @@ for x in range(5):
 
     print("{} SPAM , {} SPAM".format(ele1, ele2))
     print()
-    print ()
-    
+ 
