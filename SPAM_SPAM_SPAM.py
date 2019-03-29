@@ -1,4 +1,3 @@
-
 # Modul random importieren mit funktion shuffle 
 from random import shuffle
 
