@@ -1,3 +1,5 @@
+#!/usr/bin/python3.7
+
 # Modul random importieren mit funktion shuffle 
 from random import shuffle
 

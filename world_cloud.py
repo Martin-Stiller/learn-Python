@@ -1,3 +1,5 @@
+#!/usr/bin/python3.7
+
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
