@@ -15,3 +15,4 @@ STOPWORDS.add('Illustration')
 plt.imshow(worldcloud, interpolation='bilinear')
 plt.axis('off')
 plt.show()
+  
